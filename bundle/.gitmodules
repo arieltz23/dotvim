@@ -1,9 +1,0 @@
-[submodule "YouCompleteMe"]
-	path = YouCompleteMe
-	url = https://github.com/Valloric/YouCompleteMe
-[submodule "vim-numbertoggle"]
-	path = vim-numbertoggle
-	url = git://github.com/jeffkreeftmeijer/vim-numbertoggle.git
-[submodule "rust.vim"]
-	path = rust.vim
-	url = https://github.com/rust-lang/rust.vim.git
