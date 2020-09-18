@@ -1,3 +1,4 @@
 execute pathogen#infect()
-syntax enable
+syntax on
 filetype plugin indent on
+colorscheme molokai
